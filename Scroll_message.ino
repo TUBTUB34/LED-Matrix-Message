@@ -17,7 +17,7 @@ int BLUE = 255;
 int space = 6;  //put 6 if you want a bit between letters, 5 if you want them side by side, 4 and itll there will be cross talk.
 int Brightness = 100;
 int speed = 30;  // higher number is slower
-char message[] = "nik sux cox n dix";
+char message[] = "Test Message";
 //char message[] = "zz pearl";
 
 int messPart = 0;
